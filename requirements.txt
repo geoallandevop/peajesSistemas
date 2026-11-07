@@ -1,0 +1,5 @@
+customtkinter>=6.0.0
+SQLAlchemy>=2.0.0
+pyodbc>=5.0.0
+python-dateutil>=2.9.0
+reportlab>=5.0.0
